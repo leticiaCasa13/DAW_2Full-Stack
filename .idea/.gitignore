@@ -1,8 +1,10 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
 # Archivos compilados de Java
 *.class
+/out/
 
 # Configuración de IntelliJ IDEA
 .idea/

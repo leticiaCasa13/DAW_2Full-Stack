@@ -1,0 +1,13 @@
+# Archivos compilados de Java
+*.class
+
+# Carpeta de compilación
+/out/
+
+# Configuración de IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos de trabajo de IntelliJ
+/shelf/
+/workspace.xml
